@@ -1,0 +1,88 @@
+body {
+  background-color: #232323;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-weight: 700;
+}
+
+li {
+  text-decoration: none;
+  color: black;
+  border: 3px solid #4BA2BF;
+  text-align: center;
+  background-color: #CCF0FC;
+  margin-top: 2px;
+  border-radius: 5px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+h1 {
+  color: black;
+  border: 3px solid #4BA2BF;
+  border-radius: 15px;
+  background-color: #CCF0FC;
+  margin-right: 250px;
+  margin-left: 250px;
+  font-weight: 700;
+}
+
+h4 {
+  border: 3px solid #4BA2BF;
+  border-radius: 15px;
+  background-color: #CCF0FC;
+  margin-right: 250px;
+  margin-left: 250px;
+  font-size: 22px
+}
+h3 {
+  font-size: 22px;
+}
+h6 { 
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#random {
+  color: black;
+}
+
+#random:hover {
+  text-decoration: none;
+}
+
+input {
+  border-radius: 15px;
+  border: 3px solid #4BA2BF;
+  text-align: center;
+  background-color: #CCF0FC;
+  color: black;
+  font-size: 22px;
+}
+
+button {
+  border-radius: 15px;
+  border: 3px solid #4BA2BF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #CCF0FC;
+  font-size: 18px;
+}
+
+.background {
+  position: absolute;
+  height: 100%;
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png);
+  opacity: 0.95;
+  width: 100%;
+}
